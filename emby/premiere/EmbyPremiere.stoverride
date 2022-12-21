@@ -13,5 +13,5 @@ http:
       
 script-providers:
   EmbyPremiere:
-    url: https://github.com/Matzoh/config_hub/blob/master/emby/premiere/EmbyPremiere.js
+    url: https://raw.githubusercontent.com/Matzoh/config_hub/master/emby/premiere/EmbyPremiere.js
     interval: 86400
