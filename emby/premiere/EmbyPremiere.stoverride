@@ -1,4 +1,4 @@
-#SUBSCRIBED https://raw.githubusercontent.com/Coldvvater/Clash/master/Override/Crack/EmbyPremiere.stoverride
+#SUBSCRIBED https://github.com/Matzoh/config_hub/blob/master/emby/premiere/EmbyPremiere.stoverride
 name: EmbyPremiere
 desc: Emby破解
 
@@ -15,5 +15,5 @@ http:
       
 script-providers:
   EmbyPremiere:
-    url: https://raw.githubusercontent.com/rartv/SurgeScript/main/EmbyPremiere/EmbyPremiere.js
+    url: https://github.com/Matzoh/config_hub/blob/master/emby/premiere/EmbyPremiere.js
     interval: 86400
